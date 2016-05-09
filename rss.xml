@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Occasions Cakes]]></title>
         <description><![CDATA[Occasions Cakes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/occasions-cakes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 11:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 11:10:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/occasions-cakes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Domain For Sale]]></title>
             <description><![CDATA[<article><h1>Domain For Sale</h1><p>This domain is for sale, if your creating and making cakes in the UK then get in touch to discuss a price.</p></article>]]></description>
-            <link>undefineddomain-for-sale/index.html</link>
+            <link>https://thegrid.ai/occasions-cakes/domain-for-sale/index.html</link>
             <guid isPermaLink="false">a4039e3a-4811-4c42-9bad-f8a7244078c0</guid>
-            <pubDate>Mon, 09 May 2016 11:06:55 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 11:10:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
