@@ -1,0 +1,28 @@
+name: Occasions Cakes
+favicon: null
+layout_spectrum: 0.7177607405465096
+typography_spectrum: 0.38837087946012616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.44906593509949744
+  lightness: 0.4946312699466944
+  saturation: 0.28271974134258926
+  rhythmicContrast: 0.48472559498623013
+purpose: []
